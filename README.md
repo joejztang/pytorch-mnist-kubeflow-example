@@ -1,6 +1,7 @@
 # pytorch mnist example
 
 I use mnist dataset to train a simple pytorch model.
+This will be used to demonstrate kubeflow usage.
 
 # how to run
 
